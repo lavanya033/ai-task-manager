@@ -252,22 +252,22 @@ Relevant Document Results
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/homepagepart1.png)
-![Home Page](screenshots/homepagepart2.png)
-![Home Page](screenshots/homepagepart3.png)
+![Home Page](screenshots/ai_task_manager/homepagepart1.png)
+![Home Page](screenshots/ai_task_manager/homepagepart2.png)
+![Home Page](screenshots/ai_task_manager/homepagepart3.png)
 
 
 ---
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshots/ai_task_manager/loginpage.png)
 
 ---
 
 ## 📝 User Signup
 
-![Signup Page](screenshots/signuppage.png)
+![Signup Page](screenshots/ai_task_manager/signuppage.png)
 
 ---
 
