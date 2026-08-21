@@ -1,0 +1,7 @@
+FastAPI is a modern Python framework used for building APIs.
+
+JWT is used for authentication and authorization.
+
+FAISS is used for efficient similarity search using vector embeddings.
+
+MySQL is a relational database that stores structured dataaaaa.
