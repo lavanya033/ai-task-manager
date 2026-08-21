@@ -273,54 +273,54 @@ Relevant Document Results
 
 ## 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_dashboard_page.png)
+![Admin Dashboard](screenshots/ai_task_manager/admin_dashboard_page.png)
 
 ---
 
 ## 👤 User Dashboard
 
-![User Dashboard](screenshots/user_dashboard.png)
+![User Dashboard](screenshots/ai_task_manager/user_dashboard.png)
 
 ---
 
 ## 👥 User Management
 
-![Users](screenshots/task_assign_user.png)
+![Users](screenshots/ai_task_manager/task_assign_user.png)
 
 
 ---
 
 ## 📋 Task Assignment
 
-![Assign Task](screenshots/assign_task.png)
+![Assign Task](screenshots/ai_task_manager/assign_task.png)
 
 ---
 
 ## ✅ Tasks
 
-![Tasks](screenshots/tasks.png)
+![Tasks](screenshots/ai_task_manager/tasks.png)
 
 ---
 
 ## 📄 Documents
 
-![Documents](screenshots/documents_upload.png)
+![Documents](screenshots/ai_task_manager/documents_upload.png)
 
 ---
 
 ## 🔍 AI-Powered Search
 
-![AI Search](screenshots/ai_search_results.png)
+![AI Search](screenshots/ai_task_manager/ai_search_results.png)
 
 ---
 
 ## 📈 Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/ai_task_manager/analytics.png)
 
 ---
 ## Backend endpoints 
-![Backend Endpoints](screenshots/backend_endpoints.png)
+![Backend Endpoints](screenshots/ai_task_manager/backend_endpoints.png)
 
 
 
